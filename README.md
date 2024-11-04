@@ -32,7 +32,6 @@ A sample of head pose detection.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/GauthamAnand07/Head-Pose-Estimation.git
-   cd head-pose-detection
 
 2. **Install Dependencies:**
    ```bash
@@ -42,7 +41,7 @@ A sample of head pose detection.
 
    **Run the following command to start the head pose detection:**
    ```bash
-   python head_pose_detection.py
+   python pose_estimation.py.py
    ```
 Press the Esc key to exit the application.
 
